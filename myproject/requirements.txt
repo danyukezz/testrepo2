@@ -1,0 +1,17 @@
+Django>=5.2,<6
+djangorestframework>=3.15
+django-extensions>=3.2
+django-eav2>=1.8
+django-filter>=25
+django-model-utils>=5
+django-lifecycle>=1.2
+django-fernet-encrypted-fields>=0.3
+django-taggit>=6
+django-payments>=3
+django-bolt>=0.6
+django-allauth>=65
+drf-auth-kit>=1.1
+djangorestframework-simplejwt>=5.5
+drf-spectacular>=0.29
+cryptography>=43
+pydot>=2              # for graph_models
